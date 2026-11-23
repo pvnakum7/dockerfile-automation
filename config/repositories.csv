@@ -1,0 +1,3 @@
+Repo_Name,Repo_Link,POC,Email,CC_Email,Token_Name
+inventory-system,https://github.com/example-org/inventory-system,Alice Kumar,alice.kumar@example.com,"dev-team@example.com; lead@example.com",GIT_TOKEN
+billing-service,https://github.com/example-org/billing-service,Bob Shah,bob.shah@example.com,dev-team@example.com,GIT_TOKEN2
