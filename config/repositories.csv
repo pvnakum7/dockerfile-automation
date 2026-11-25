@@ -1,3 +1,5 @@
 Repo_Name,Repo_Link,POC,Email,CC_Email,Token_Name
 inventory-system,https://github.com/example-org/inventory-system,Alice Kumar,alice.kumar@example.com,"dev-team@example.com; lead@example.com",GIT_TOKEN
 billing-service,https://github.com/example-org/billing-service,Bob Shah,bob.shah@example.com,dev-team@example.com,GIT_TOKEN2
+example-dockerfile-python,https://github.com/deis/example-dockerfile-python.git,pvnakum7@gmail.com,pvnakum77@gmail.com,itpvpatel@gmail.com,GIT_TOKEN
+sample-python-app,https://github.com/stevemar/sample-python-app.git,pvnakum7@gmail.com,pvnakum77@gmail.com,"premrangilo@gmail.com,itpvpatel@gmail.com",GIT_TOKEN
